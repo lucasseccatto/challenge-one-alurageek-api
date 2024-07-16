@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "id": "a526",
+      "nome": "POP! LUFFY (UPPERCUT)",
+      "preco": "81,46",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw20a94e49/images/funko/upload/77959_OP_LuffyUppercutMT_POP_GLAM-WEB.png?sw=800&sh=800"
+    },
+    {
+      "id": "93d5",
+      "nome": "POP! SUPER KAIDO (MAN-BEAST FORM)",
+      "preco": "135,77",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dwc15b7750/images/funko/upload/75580_OP_KaidoManBeastForm_GLAM-WEB.png?sw=800&sh=800"
+    },
+    {
+      "id": "b12e",
+      "nome": "POP! DELUXE YAMATO (MAN-BEAST FORM) (GLOW)",
+      "preco": "190,08",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw39656568/images/funko/upload/77970_OP_YamatoManBeastFormGW_POP_DELUXE_GLAM-WEB.png?sw=800&sh=800"
+    },
+    {
+      "id": "fbb0",
+      "nome": "POP! KATAKURI",
+      "preco": "65,17",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dwce6b3d0e/images/funko/upload/75579_OP_Katakuri_GLAM-WEB.png?sw=800&sh=800"
+    },
+    {
+      "id": "594a",
+      "nome": "POP! CHOPPEREMON IN WANO OUTFIT (FLOCKED)",
+      "preco": "81,46",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw00ebddb9/images/funko/upload/74712-POP-Animation-OP---Chopperemon(Wano)(FL)_GLAM-WEB.png?sw=800&sh=800"
+    },
+    {
+      "id": "add5",
+      "nome": "POP! OROBI IN WANO OUTFIT",
+      "preco": "65,17",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dwfa7cd4bc/images/funko/upload/72110-POP-Animation-One-Piece---Orobi_GLAM-WEB.png?sw=800&sh=800"
+    },
+    {
+      "id": "5b5c",
+      "nome": "POP! ONAMI IN WANO OUTFIT",
+      "preco": "65,17",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dwff8caa30/images/funko/upload/72107-POP-Animation-One-Piece---Onami_GLAM-WEB.png?sw=800&sh=800"
+    },
+    {
+      "id": "94ef",
+      "nome": "POP! RORONOA ZORO",
+      "preco": "65,17",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw4c98543d/images/funko/23191-1.png?sw=800&sh=800"
+    },
+    {
+      "id": "c48c",
+      "nome": "POP! VINSMOKE SANJI",
+      "preco": "65,17",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw077f3726/images/funko/32715-1.png?sw=800&sh=800"
+    }
+  ]
+}
